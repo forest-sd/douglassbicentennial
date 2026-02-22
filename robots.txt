@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://douglassbicentennial.pages.dev/sitemap.xml
+Sitemap: https://douglassbicentennial.org/sitemap.xml
